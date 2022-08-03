@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of the analysis:
-
+### Purpose:
 ##### PyBer Analysis challenge uses Jupyter to commit different lines of code to pull specific data from  both city_data and ride_data files to produce a table summary and graph that can give an over all veiw of the ride fare and driver fare within Urban, Suburban and Rural areas. This is done by extracting different pieces of the information such as the total drivers, rides, total fare, and the average fares for each of the city types. With this, a table can be made with clear summarization that outlines the different factors by city type. The second deliverable is focused on creating the a line graph that tracks the weekly fares of each city over the course of four months. By using functions like groupby(), index, pivot and loc I was able to exacute lines of code that properly produced the information 
 ---
 ## Results:
