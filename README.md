@@ -1,12 +1,12 @@
 # PyBer_Analysis
 
 ## Overview of the analysis:
-### The purpose:
+
 ##### PyBer Analysis challenge uses Jupyter to commit different lines of code to pull specific data from  both city_data and ride_data files to produce a table summary and graph that can give an over all veiw of the ride fare and driver fare within Urban, Suburban and Rural areas. This is done by extracting different pieces of the information such as the total drivers, rides, total fare, and the average fares for each of the city types. With this, a table can be made with clear summarization that outlines the different factors by city type. The second deliverable is focused on creating the a line graph that tracks the weekly fares of each city over the course of four months. By using functions like groupby(), index, pivot and loc I was able to exacute lines of code that properly produced the information 
 ---
 ## Results:
 ### Deliverable 1 Results
-### Ride-sharing data among the different city types:
+#### Ride-sharing data among the different city types:
 
 * Rural: The table reveals that the average fare per ride and per driver is the highest within rural city types. However, it was the lowest in total rides, drivers, and total fares. 
 * Suburban: This city type had the secong highest average fare per ride and driver below Rural along with the second highest amount in toal rides, drivers and fares after Urban city types.
@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/105329532/182691061-b76d8542-2589-419d-b985-726a5948418c.png)
 
 ### Deliverable 2 Results:
-### Total Fare by City Type
+#### Total Fare by City Type
 
 * This data deliverable captures the total fare by city type on a weekly basis over the course of 4 months.
 *  As shown on the graph below, it can be seen that Rural cities have the lowest total fare that barely exceeds 500 $USD. 
