@@ -22,7 +22,7 @@
 *  Suburban is mostly stangnet in the middle with two small peaks in the month Feruary and April, however, it does not exceed 1500 $USD. 
 *  Lastly, Urban has the highest weekly total fares maintaning in the  1500- 2500 $USD range through out January and April.
 
-![image](https://user-images.githubusercontent.com/105329532/182695566-00f472c7-8ae6-4a9b-afa9-7c8d321b3114.png)
+![image](https://user-images.githubusercontent.com/105329532/182746932-d1e3d464-c058-4b65-8340-44296c496856.png)
 
 ---
 ## Summary:
